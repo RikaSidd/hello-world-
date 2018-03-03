@@ -1,2 +1,7 @@
 # hello-world-
-practice 
+//practice
+
+hi, Rika here, whats up? 
+
+
+
